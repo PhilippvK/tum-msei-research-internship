@@ -1,0 +1,3 @@
+[submodule "stm32-tflm-demos"]
+	path = stm32-tflm-demos
+	url = https://github.com/PhilippvK/stm32-tflm-demos.git
